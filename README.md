@@ -3,7 +3,6 @@ ___
 This is an open source project that is contributing a paper to PRCV, titled: Joint Artifact Correction and Quality Assessment via
 Perceptual Contrastive Learning on Diffusion MRI
 
-____
 ## Introduction
 Framework for Joint Artifact Correction and Quality Assessment in dMRI: This work tackles artifacts (ghosting, motion) impairing dMRI microstructure analysis. We propose a novel two-stage framework:
 * **Artifact Correction**: Utilizes an enhanced 3D U-Net with Leaky ReLU and trilinear upsampling, trained using a hybrid perceptual loss (NMAE + HaarPSI) for high-fidelity artifact removal across 4D DWI.
