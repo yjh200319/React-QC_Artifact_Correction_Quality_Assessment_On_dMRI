@@ -1,5 +1,4 @@
 # React-QC
-___
 This is an open source project that is contributing a paper to PRCV, titled: Joint Artifact Correction and Quality Assessment via
 Perceptual Contrastive Learning on Diffusion MRI
 
