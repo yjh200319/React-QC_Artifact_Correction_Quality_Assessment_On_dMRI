@@ -1,5 +1,5 @@
 # React-QC
-This is an open source project that is contributing a paper to PRCV, titled: Joint Artifact Correction and Quality Assessment via
+This is an open source project that is contributing a paper to ISBI, titled: Joint Artifact Correction and Quality Assessment via
 Perceptual Contrastive Learning on Diffusion MRI
 
 ## Introduction
@@ -37,3 +37,4 @@ To use this project, follow these steps:
 3. Using step 2 model to generate npy files by running `python test_model_generate_npy.py`
 that you can save npy files in npy_file/train or npy_file/val
 4. Finally you can run `python classify_code.py` to classify the quality of the volume exclude b0 from DWI images
+
